@@ -1,7 +1,7 @@
 # woocommerce-to-bigcommerce
  
 
-Version: 2.4.1
+Version 2.4.1
 Developed by: LitExtension
 Download: https://litextension.com/bigcommerce-migration/woocommerce-to-bigcommerce-migration.html
 
@@ -10,6 +10,7 @@ Download: https://litextension.com/bigcommerce-migration/woocommerce-to-bigcomme
 LitExtension WooCommerce to BigCommerce Migration plugin allows you to migrate your products, orders, customers, passwords and other data from WooCommerce to BigCommerce automatically.
 
 = WHAT DATA CAN POSSIBLY BE MIGRATED =
+
 
 Products
 * SKU, Name, Description, URL, Qty, Stock Status, Model, Weight ...
@@ -23,6 +24,7 @@ Products
 * Meta Title, Meta Description, Meta Keywords
 * Currencies
 
+
 Categories
 * URL, Name, Description, Base Image, Additional Images
 
@@ -31,21 +33,27 @@ Customers
 * Customer Password
 * Customer Groups: Preserve relationships with their groups
 
+
 Orders
 * ID, Order products, Product price, Qty, Date, Status, Discount price ...
+
 
 SEO URLs
 * Migrate Products and Categories SEO URLs
 * Migrate 301 SEO URLs of categories and products
 
+
 Custom Fields
 * Custom fields of Products, Categories, Customers and Orders
+
 
 Reviews
 * Customers Name, Rating, Review, Status ...
 
+
 Taxes
 * Tax rules, Tax rates, Product tax classes ...
+
 
 Manufactures
 * Name, Description
@@ -67,7 +75,8 @@ Manufactures
 
 = CONTACT US =
 
-LitExtension - The Ultimate Shopping Cart Migration
+LitExtension - The Ultimate Shopping Cart Migratio
+We are always available to help you with any problems!
 
 Website: https://litextension.com
 Email: contact@litextension.com
